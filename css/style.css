@@ -44,6 +44,25 @@ p {
   line-height: 2rem;
 }
 
+.header {
+  padding: 5%
+}
+
+.header {
+    font-size: 5em;
+}
+
+.header_subtitle {
+  padding: 5%
+}
+
+.row
+
+{
+  padding: 5%;
+}
+
+
 .sidenav-trigger {
   color: #26a69a;
 }
